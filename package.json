@@ -1,0 +1,26 @@
+{
+  "name": "busy-bee",
+  "version": "1.0.0",
+  "description": "a simple to-do app in electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abehuerta/busy-bee.git"
+  },
+  "keywords": [
+    "to-to",
+    "electron"
+  ],
+  "author": "Abe Huerta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abehuerta/busy-bee/issues"
+  },
+  "homepage": "https://github.com/Abehuerta/busy-bee#readme",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  }
+}
